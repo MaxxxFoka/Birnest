@@ -3,6 +3,25 @@
 Every beta build is listed here, newest first. Downloads are on the
 [Releases page](https://github.com/MaxxxFoka/Birnest/releases).
 
+## v0.1.0-beta.3 (unreleased)
+
+Fixes from the first online matches between friends. Beta 2 can no longer join online
+matches once this build is out, so update before you play.
+
+**Fixes**
+- No more duplicate heroes: each bird can be picked once per match.
+- Nobody starts before everyone has loaded. The loading screen shows "Waiting for players"
+  until the last player is in.
+- Less stutter the first time abilities and effects appear: the game warms them up behind
+  the loading screen.
+- Fixed black or washed-out graphics on the Compatibility (OpenGL) renderer, used on older
+  GPUs and by Mac players running the game through CrossOver.
+- Settings: Accept and Revert sit at the bottom and stay greyed out until you change something.
+
+**Balance and world**
+- Second hero tuning pass; Stillstorm retuned again.
+- Longer opening Day and Gloaming; new day and night colour grading.
+
 ## v0.1.0-beta.2 (2026-11-08)
 
 **New**
