@@ -54,7 +54,8 @@ Windows is built for now. macOS and Linux may come later.
    download `Birnest-<version>-windows.zip` from **Assets**.
 2. Right-click the zip, choose **Extract All…**, and pick a folder you own, for example
    `C:\Games\Birnest`. Don't run the game from inside the zip.
-3. Open the folder and double-click the game's `.exe`.
+3. Open the folder and double-click `BirdNestDefence.exe` (it gets the Birnest name in a
+   coming build).
 4. Windows may show **"Windows protected your PC"** because the beta isn't code-signed yet.
    Click **More info**, then **Run anyway**.
 
@@ -127,7 +128,8 @@ Windows is built for now. macOS and Linux may come later.
    download `Birnest-<version>-windows.zip` from **Assets**.
 2. Right-click the zip, choose **Extract All…**, and pick a folder you own, for example
    `C:\Games\Birnest`. Don't run the game from inside the zip.
-3. Open the folder and double-click the game's `.exe`.
+3. Open the folder and double-click `BirdNestDefence.exe` (it gets the Birnest name in a
+   coming build).
 4. Windows may show **"Windows protected your PC"** because the beta isn't code-signed yet.
    Click **More info**, then **Run anyway**.
 
