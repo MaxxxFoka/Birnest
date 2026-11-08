@@ -5,6 +5,11 @@ Every beta build is listed here, newest first. Downloads are on the
 
 ## v0.1.0-beta.4 (2026-11-08)
 
+**Mac**
+- A native macOS build, `Birnest-v0.1.0-beta.4-macos.zip`: the full renderer on Metal,
+  no CrossOver needed. It isn't signed by Apple yet, so approve it once; see
+  [Install on a Mac](README.md#install-on-a-mac).
+
 **New**
 - **Homeward Whistle:** every hero starts with one in a Trinket slot (extra ones cost
   75 Seeds). Use it to channel for 3.5 s, then fly home to your Roost, or to a friendly
