@@ -54,8 +54,7 @@ Windows is built for now. macOS and Linux may come later.
    download `Birnest-<version>-windows.zip` from **Assets**.
 2. Right-click the zip, choose **Extract All…**, and pick a folder you own, for example
    `C:\Games\Birnest`. Don't run the game from inside the zip.
-3. Open the folder and double-click `Birnest.exe` (in v0.1.0-beta.1 it is still called
-   `BirdNestDefence.exe`).
+3. Open the folder and double-click `Birnest.exe`.
 4. Windows may show **"Windows protected your PC"** because the beta isn't code-signed yet.
    Click **More info**, then **Run anyway**.
 
@@ -96,9 +95,20 @@ The hash should match the one in the `.sha256` file.
 The game connects to the beta server by itself: the **Lobby server** field on the main menu
 already says `https://2-31-168-73.sslip.io`.
 
-- **Host:** type your name and click **Host a lobby**. Send the invite code to your friends.
-- **Join:** type your name, paste the code into **Invite code** and click **Join**.
-- Empty slots are filled with bots, so you can play 1v1, 2v2 or a full match with friends.
+**Play with a friend (easiest):** both of you install the game and type your names.
+
+1. One of you clicks **Host a lobby** and sends the invite code (any chat app works).
+2. The other pastes the code into **Invite code** and clicks **Join**.
+3. Pick your Clutches, and the host starts the match. Empty slots are filled with bots, so
+   1v1, 2v2 or a full match all work.
+
+**Find match:** open **Find match** to queue for a match. To queue together, one of you
+clicks **Make a party** and shares the party code; the other enters it under **Join party**.
+When a match is found, accept the ready check. Bots fill any empty seats.
+
+**Steam invites (optional):** with Steam running, host a lobby and click **Invite Steam
+friends**. Your friend must already have Birnest open when they accept. For now you'll show
+as playing "Spacewar" in Steam; that's expected during the beta.
 
 If you joined a lobby but the match never loads, allow the game through Windows Firewall
 (it uses UDP ports 7777 to 7876) and try again.

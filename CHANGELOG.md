@@ -3,17 +3,36 @@
 Every beta build is listed here, newest first. Downloads are on the
 [Releases page](https://github.com/MaxxxFoka/Birnest/releases).
 
-## Unreleased (next beta)
+## v0.1.0-beta.2 (2026-11-08)
 
-**Play**
-- The game is now called **Birnest**: the exe is `Birnest.exe`. Your settings, key bindings
-  and replays move over from the old build on first start.
-- The lobby server field opens on the beta server even if an older build saved a local address.
+**New**
+- The game is now called **Birnest**, with a new icon, boot splash, menu art and loading
+  screen. The exe is `Birnest.exe`; settings, key bindings and replays move over from
+  beta 1 on first start.
+- **Find match:** queue for a match from the main menu, alone or in a party with friends.
+  A ready check pops when a match is found, and bots fill empty seats. 5v5 online matches on
+  Shellfall, with a draft.
 - **Steam invites (optional):** with Steam running, Host a lobby, then click **Invite Steam
   friends**; your friend accepts in Steam and lands in your lobby. It uses Steam's test app
   for now, so you'll show as playing Spacewar, and your friend must already have Birnest
   open when accepting. For the Steam overlay, add `Birnest.exe` to Steam via
   **Games > Add a Non-Steam Game**.
+- Music and voices: day and night music, a menu theme, stings and hero reaction calls.
+
+**Look and feel**
+- Lighting pass, a rebuilt Canopy environment (trees, rocks, cliffs), rebuilt Perches and a
+  redesigned Thornback.
+- Clearer ability effects: cast, travel and impact for every ability, and readable
+  ultimate-heavy fights.
+- HUD: death recap, XP bar and mana numbers.
+
+**Bots and balance**
+- Bots close out games, defend, clear the Wilds and now fight the Stillstorm; easy, normal
+  and hard practice bots.
+- First hero tuning pass; Stillstorm retuned.
+
+**Fixes**
+- The Lobby server field opens on the beta server even if beta 1 saved a local address.
 
 ## v0.1.0-beta.1 (2026-11-08)
 
@@ -38,6 +57,6 @@ The first closed beta build.
 
 **Known issues**
 - Much of the art is placeholder and is being rebuilt.
-- The game window and `.exe` may still show the old name and the default engine icon.
+- The game window and `.exe` still show the old name and the default engine icon (fixed in beta 2).
 - Online play has had little testing between players on different networks. Please report
   lag or disconnects.
