@@ -11,7 +11,7 @@ matches once this build is out, so update before you play.
 **New**
 - **Respawn in your Roost:** heroes now hatch and respawn in their own Roost, which defends
   itself against intruders.
-- **Homeward Whistle:** every hero starts with one (more cost 75 Seeds). Channel for 3.5 s,
+- **Homeward Whistle:** every hero starts with one (extra ones cost 75 Seeds). Channel for 3.5 s,
   then fly to the friendly Perch nearest your aim, or home to the Roost. Taking a hit or
   moving cancels it at no cost.
 - **Shop from anywhere:** buy while out on the map; items wait in your 6-slot Stash until
