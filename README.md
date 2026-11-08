@@ -45,8 +45,11 @@ enemy Perches and breaks the Great Egg at the heart of their Nest.
 | **Storage** | 500 MB free | 1 GB free (replays add up) |
 | **Network** | Broadband for online play | |
 
-These are early estimates; tell us if the game runs badly on a PC that meets them. Only
-Windows is built for now. macOS and Linux may come later.
+These are early estimates; tell us if the game runs badly on a PC that meets them.
+
+**Mac:** there is a native build for macOS 11 Big Sur or later. It runs the full renderer
+on Metal and is made for Apple Silicon (M1 or newer); the same app also runs on Intel Macs,
+but we haven't tested those yet. Linux may come later.
 
 ## Install
 
@@ -60,6 +63,37 @@ Windows is built for now. macOS and Linux may come later.
 
 Keep every file from the zip together: the game needs the `.pck`, the `.dll` and the
 `content` folder next to the `.exe`.
+
+### Install on a Mac
+
+The Mac beta isn't signed with an Apple Developer ID yet, so macOS asks you to approve it
+once.
+
+1. Download `Birnest-<version>-macos.zip` from **Assets** on the
+   [Releases page](https://github.com/MaxxxFoka/Birnest/releases). Safari unzips it for
+   you; otherwise double-click the zip. You get `Birnest.app`.
+2. Drag `Birnest.app` into your **Applications** folder (or any folder you own).
+3. Double-click `Birnest.app`. macOS says it **"cannot verify"** the app or that Apple
+   could not check it for malware. Click **Done** (or **OK**). Don't move it to the Bin.
+4. Open **System Settings → Privacy & Security**, scroll down to **Security**, and next to
+   *"Birnest" was blocked* click **Open Anyway**. Enter your password, then click
+   **Open Anyway** once more. From then on the game opens normally.
+
+If step 4 has no **Open Anyway** button, or macOS says the app **"is damaged and can't be
+opened"**, remove the download quarantine flag in **Terminal** and open it again:
+
+```sh
+xattr -dr com.apple.quarantine /Applications/Birnest.app
+```
+
+(Change the path if you put the app somewhere else. You can type `xattr -dr
+com.apple.quarantine ` and drag the app onto the Terminal window.)
+
+Settings and replays live in `~/Library/Application Support/Godot/app_userdata/Birnest/`.
+To update, replace `Birnest.app` with the new one; you may need to approve it again.
+
+If you played the Windows build through CrossOver or Parallels before, use the Mac build
+instead: it looks better and runs faster.
 
 **Updating:** download the new zip and extract it over the old folder (or into a new one).
 Your settings, key bindings and replays are kept, because they live in your user profile,
@@ -75,6 +109,12 @@ Each release also has a `.sha256` file. In PowerShell:
 
 ```powershell
 Get-FileHash .\Birnest-<version>-windows.zip -Algorithm SHA256
+```
+
+On a Mac, in Terminal:
+
+```sh
+shasum -a 256 ~/Downloads/Birnest-<version>-macos.zip
 ```
 
 The hash should match the one in the `.sha256` file.
