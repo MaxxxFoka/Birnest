@@ -3,6 +3,27 @@
 Every beta build is listed here, newest first. Downloads are on the
 [Releases page](https://github.com/MaxxxFoka/Birnest/releases).
 
+## v0.1.0-beta.4 (unreleased)
+
+**New**
+- **Homeward Whistle:** every hero starts with one in a Trinket slot (extra ones cost
+  75 Seeds). Use it to channel for 3.5 s, then fly home to your Roost, or to a friendly
+  Perch if you aim right at it. Taking a hit or moving cancels it at no cost.
+- **Shop from anywhere:** open the Magpie Market (**B**) anywhere on the map. Away from the
+  Market your purchases wait in your 6-slot Stash; right-click a stashed item to sell it.
+- **Carrier Swift:** each Clutch has a courier. Press **C** to send it with your Stash; it
+  flies the items out to you. Enemies can kill it for a bounty, but your items are never lost.
+
+**Combat**
+- Your ultimate (**R**) now shows "Molt 6" until it unlocks, and a refused cast tells you
+  why (locked, cooldown or not enough mana).
+- Fledglings hit heroes for 30% less and switch to enemy Fledglings when they're near.
+- Ranged attacks fly a visible bolt; Perches wind up a glowing orb before they shoot.
+- Last hits show "+N" Seeds; denies show "!".
+
+**Fixes**
+- Removed log errors from the loading-screen warm-up.
+
 ## v0.1.0-beta.3 (2026-11-08)
 
 Fixes from the first online matches between friends, plus respawning in your Roost. Beta 2 can no longer join online
@@ -11,9 +32,6 @@ matches once this build is out, so update before you play.
 **New**
 - **Respawn in your Roost:** heroes now hatch and respawn in their own Roost, which defends
   itself against intruders.
-- Coming in the next beta: the Homeward Whistle (fly back to a Perch or your Roost), a
-  Stash for buying from anywhere, and the Carrier Swift courier. The groundwork is in this
-  build; the buttons for them arrive next.
 
 **Fixes**
 - No more duplicate heroes: each bird can be picked once per match.
