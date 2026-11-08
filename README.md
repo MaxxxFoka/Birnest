@@ -125,7 +125,8 @@ All keys can be changed in **Settings → Controls**.
 | Take off / land (hop when grounded in some spots) | **Space** |
 | Abilities 1, 2, 3, ultimate | **Q**, **E**, **F**, **R** |
 | Trinkets | **1** to **6** |
-| Magpie Market (shop) | **B** |
+| Magpie Market (shop, works anywhere) | **B** |
+| Send the Carrier Swift with your Stash | **C** |
 | Plume card (talents) | **P** |
 | Scoreboard | Hold **Tab** |
 | Ping | **Alt** or **Mouse 4** |

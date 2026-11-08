@@ -3,7 +3,7 @@
 Every beta build is listed here, newest first. Downloads are on the
 [Releases page](https://github.com/MaxxxFoka/Birnest/releases).
 
-## v0.1.0-beta.4 (unreleased)
+## v0.1.0-beta.4 (2026-11-08)
 
 **New**
 - **Homeward Whistle:** every hero starts with one in a Trinket slot (extra ones cost
@@ -23,6 +23,9 @@ Every beta build is listed here, newest first. Downloads are on the
 
 **Fixes**
 - Removed log errors from the loading-screen warm-up.
+
+**World**
+- The Stillstorm has a new, fiercer model.
 
 ## v0.1.0-beta.3 (2026-11-08)
 
