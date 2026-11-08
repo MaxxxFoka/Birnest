@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MaxxxFoka/Birnest/releases/latest"><b>⬇ Download the latest beta</b></a> ·
+  <a href="https://github.com/MaxxxFoka/Birnest/releases"><b>⬇ Download the latest beta</b></a> ·
   <a href="#install">Install</a> ·
   <a href="#how-to-play">How to play</a> ·
   <a href="#report-a-bug">Report a bug</a> ·
@@ -50,7 +50,7 @@ Windows is built for now. macOS and Linux may come later.
 
 ## Install
 
-1. Open the [latest release](https://github.com/MaxxxFoka/Birnest/releases/latest) and
+1. Open the [Releases page](https://github.com/MaxxxFoka/Birnest/releases) and
    download `Birnest-<version>-windows.zip` from **Assets**.
 2. Right-click the zip, choose **Extract All…**, and pick a folder you own, for example
    `C:\Games\Birnest`. Don't run the game from inside the zip.
@@ -80,7 +80,7 @@ cat > README.md <<'E'
 </p>
 
 <p align="center">
-  <a href="https://github.com/MaxxxFoka/Birnest/releases/latest"><b>⬇ Download the latest beta</b></a> ·
+  <a href="https://github.com/MaxxxFoka/Birnest/releases"><b>⬇ Download the latest beta</b></a> ·
   <a href="#install">Install</a> ·
   <a href="#how-to-play">How to play</a> ·
   <a href="#report-a-bug">Report a bug</a> ·
@@ -124,7 +124,7 @@ Windows is built for now. macOS and Linux may come later.
 
 ## Install
 
-1. Open the [latest release](https://github.com/MaxxxFoka/Birnest/releases/latest) and
+1. Open the [Releases page](https://github.com/MaxxxFoka/Birnest/releases) and
    download `Birnest-<version>-windows.zip` from **Assets**.
 2. Right-click the zip, choose **Extract All…**, and pick a folder you own, for example
    `C:\Games\Birnest`. Don't run the game from inside the zip.
