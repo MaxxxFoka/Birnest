@@ -54,8 +54,8 @@ Windows is built for now. macOS and Linux may come later.
    download `Birnest-<version>-windows.zip` from **Assets**.
 2. Right-click the zip, choose **Extract All…**, and pick a folder you own, for example
    `C:\Games\Birnest`. Don't run the game from inside the zip.
-3. Open the folder and double-click `BirdNestDefence.exe` (it gets the Birnest name in a
-   coming build).
+3. Open the folder and double-click `Birnest.exe` (in v0.1.0-beta.1 it is still called
+   `BirdNestDefence.exe`).
 4. Windows may show **"Windows protected your PC"** because the beta isn't code-signed yet.
    Click **More info**, then **Run anyway**.
 
@@ -67,7 +67,7 @@ Your settings, key bindings and replays are kept, because they live in your user
 not in the game folder.
 
 **Uninstalling:** delete the game folder. Settings and replays live under
-`%APPDATA%\Godot\app_userdata\`; delete the game's folder there to remove them too.
+`%APPDATA%\Godot\app_userdata\Birnest\`; delete that folder to remove them too.
 
 <details>
 <summary><b>Check the download (optional)</b></summary>
@@ -140,7 +140,7 @@ Found something broken? Please tell us; every report gets read.
 Useful extras:
 
 - **Replay:** if it happened in a practice match, attach the replay. Replays are in
-  `%APPDATA%\Godot\app_userdata\<game folder>\replays\` (paste that path into the Explorer
+  `%APPDATA%\Godot\app_userdata\Birnest\replays\` (paste that path into the Explorer
   address bar). Zip the `.bndreplay` file and drag it into the issue.
 - **Crash or black screen:** run the game from a Command Prompt in the game folder and copy
   the text it prints into the issue.
