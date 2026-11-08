@@ -3,6 +3,18 @@
 Every beta build is listed here, newest first. Downloads are on the
 [Releases page](https://github.com/MaxxxFoka/Birnest/releases).
 
+## Unreleased (next beta)
+
+**Play**
+- The game is now called **Birnest**: the exe is `Birnest.exe`. Your settings, key bindings
+  and replays move over from the old build on first start.
+- The lobby server field opens on the beta server even if an older build saved a local address.
+- **Steam invites (optional):** with Steam running, Host a lobby, then click **Invite Steam
+  friends**; your friend accepts in Steam and lands in your lobby. It uses Steam's test app
+  for now, so you'll show as playing Spacewar, and your friend must already have Birnest
+  open when accepting. For the Steam overlay, add `Birnest.exe` to Steam via
+  **Games > Add a Non-Steam Game**.
+
 ## v0.1.0-beta.1 (2026-11-08)
 
 The first closed beta build.
