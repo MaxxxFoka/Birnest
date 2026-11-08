@@ -5,8 +5,19 @@ Every beta build is listed here, newest first. Downloads are on the
 
 ## v0.1.0-beta.3 (2026-11-08)
 
-Fixes from the first online matches between friends. Beta 2 can no longer join online
+Fixes from the first online matches between friends, plus new ways to get around and shop. Beta 2 can no longer join online
 matches once this build is out, so update before you play.
+
+**New**
+- **Respawn in your Roost:** heroes now hatch and respawn in their own Roost, which defends
+  itself against intruders.
+- **Homeward Whistle:** every hero starts with one (more cost 75 Seeds). Channel for 3.5 s,
+  then fly to the friendly Perch nearest your aim, or home to the Roost. Taking a hit or
+  moving cancels it at no cost.
+- **Shop from anywhere:** buy while out on the map; items wait in your 6-slot Stash until
+  you're back at a shop, or until the courier brings them.
+- **Carrier Swift:** each Clutch has a courier. Send it to deliver your Stash to you in the
+  field. Enemies can kill it for a bounty, but your items are never lost.
 
 **Fixes**
 - No more duplicate heroes: each bird can be picked once per match.
@@ -19,7 +30,7 @@ matches once this build is out, so update before you play.
 - Settings: Accept and Revert sit at the bottom and stay greyed out until you change something.
 
 **Balance and world**
-- Second hero tuning pass; Stillstorm retuned again.
+- Second and third hero tuning passes; Stillstorm retuned and given a fiercer look.
 - Longer opening Day and Gloaming; new day and night colour grading.
 
 ## v0.1.0-beta.2 (2026-11-08)
