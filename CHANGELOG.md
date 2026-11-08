@@ -21,7 +21,7 @@ The first closed beta build.
 - Seeds, last hits and Trinkets from the Magpie Market; Plume talent cards.
 - Fog of war, Perches, Fledgling waves, the Wilds and a sleeping boss to hunt.
 - HUD with death recap, XP bar, minimap, scoreboard and pings.
-- Replays of every match, and live spectating.
+- Replays of practice matches, and live spectating of online matches.
 - Settings: rebindable keys, graphics presets, UI scale, colour-blind modes, audio mixer.
 
 **Known issues**

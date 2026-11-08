@@ -197,8 +197,8 @@ All keys can be changed in **Settings → Controls**.
 
 ### Watch and replay
 
-Every match you play is saved as a replay. Open **Watch** on the main menu to play replays
-back or to spectate a live match.
+Practice matches are saved as replays when they end or when you leave. Open **Watch** on the
+main menu to play them back or to spectate a live online match.
 
 ## Report a bug
 
@@ -211,7 +211,7 @@ Found something broken? Please tell us; every report gets read.
 
 Useful extras:
 
-- **Replay:** if it happened in a match, attach the replay. Replays are in
+- **Replay:** if it happened in a practice match, attach the replay. Replays are in
   `%APPDATA%\Godot\app_userdata\<game folder>\replays\` (paste that path into the Explorer
   address bar). Zip the `.bndreplay` file and drag it into the issue.
 - **Crash or black screen:** run the game from a Command Prompt in the game folder and copy
