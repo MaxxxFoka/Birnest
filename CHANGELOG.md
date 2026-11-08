@@ -3,7 +3,7 @@
 Every beta build is listed here, newest first. Downloads are on the
 [Releases page](https://github.com/MaxxxFoka/Birnest/releases).
 
-## v0.1.0-beta.3 (unreleased)
+## v0.1.0-beta.3 (2026-11-08)
 
 Fixes from the first online matches between friends. Beta 2 can no longer join online
 matches once this build is out, so update before you play.
