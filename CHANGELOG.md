@@ -3,6 +3,11 @@
 Every beta build is listed here, newest first. Downloads are on the
 [Releases page](https://github.com/MaxxxFoka/Birnest/releases).
 
+## Unreleased (next beta)
+
+- Joining an online match always goes through the loading screen, and a failed join stays
+  there with a plain reason instead of a server address.
+
 ## v0.1.0-beta.4 (2026-11-08)
 
 **Mac**
