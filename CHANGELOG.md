@@ -3,6 +3,20 @@
 Every beta build is listed here, newest first. Downloads are on the
 [Releases page](https://github.com/MaxxxFoka/Birnest/releases).
 
+## v0.1.0-beta.7 (2026-11-09)
+
+A balance update. If you have beta 6, the game offers this update on the main menu.
+
+**Balance**
+- Bellhorn, Dreadcasque and Huddlewarm move a little slower (they'd been given extra speed
+  to make up for hopping; that's gone now).
+- Nightpinion moves a little faster.
+- Velvetclaw's basic attack hits harder: 54 → 58.
+- Firstlight and Rouser bots now buy damage items instead of support items.
+
+**Look**
+- Velvetclaw refined again: new back and wing colours and a feathered head.
+
 ## v0.1.0-beta.6 (2026-11-09)
 
 Windows and Mac. **Install this one by hand once:** from now on the game updates itself.
