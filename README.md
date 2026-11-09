@@ -6,7 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MaxxxFoka/Birnest/releases"><b>⬇ Download the latest beta</b></a> ·
+  <a href="https://github.com/MaxxxFoka/Birnest/releases/download/v0.1.0-beta.5/Birnest-v0.1.0-beta.5-windows.zip"><b>⬇ Windows</b></a> ·
+  <a href="https://github.com/MaxxxFoka/Birnest/releases/download/v0.1.0-beta.5/Birnest-v0.1.0-beta.5-macos.zip"><b>⬇ Mac</b></a> ·
+  <a href="https://github.com/MaxxxFoka/Birnest/releases">All releases</a> ·
   <a href="#install">Install</a> ·
   <a href="#how-to-play">How to play</a> ·
   <a href="#report-a-bug">Report a bug</a> ·
@@ -15,8 +17,11 @@
 
 <p align="center"><img src="docs/images/match.jpg" alt="A 3v3 match on the Canopy map, seen from behind a hero at the Nest" width="900"></p>
 
-> **Closed beta.** Birnest is early and changes every week. Expect bugs, placeholder art
-> and balance swings. Your reports shape what we fix next.
+> **Open beta, free to play.** Anyone can download Birnest and play online. The game is early
+> and changes every week: expect bugs, placeholder art and balance swings. Your reports shape
+> what we fix next.
+>
+> **Latest: v0.1.0-beta.5** · [Windows](https://github.com/MaxxxFoka/Birnest/releases/download/v0.1.0-beta.5/Birnest-v0.1.0-beta.5-windows.zip) · [Mac](https://github.com/MaxxxFoka/Birnest/releases/download/v0.1.0-beta.5/Birnest-v0.1.0-beta.5-macos.zip) · [What's new](CHANGELOG.md)
 
 ## What is Birnest?
 
@@ -53,8 +58,8 @@ but we haven't tested those yet. Linux may come later.
 
 ## Install
 
-1. Open the [Releases page](https://github.com/MaxxxFoka/Birnest/releases) and
-   download `Birnest-<version>-windows.zip` from **Assets**.
+1. Download [the Windows zip](https://github.com/MaxxxFoka/Birnest/releases/download/v0.1.0-beta.5/Birnest-v0.1.0-beta.5-windows.zip) (or pick a version from **Assets** on the
+   [Releases page](https://github.com/MaxxxFoka/Birnest/releases)).
 2. Right-click the zip, choose **Extract All…**, and pick a folder you own, for example
    `C:\Games\Birnest`. Don't run the game from inside the zip.
 3. Open the folder and double-click `Birnest.exe`.
@@ -69,8 +74,8 @@ Keep every file from the zip together: the game needs the `.pck`, the `.dll` and
 The Mac beta isn't signed with an Apple Developer ID yet, so macOS asks you to approve it
 once.
 
-1. Download `Birnest-<version>-macos.zip` from **Assets** on the
-   [Releases page](https://github.com/MaxxxFoka/Birnest/releases). Safari unzips it for
+1. Download [the Mac zip](https://github.com/MaxxxFoka/Birnest/releases/download/v0.1.0-beta.5/Birnest-v0.1.0-beta.5-macos.zip) (or pick a version from **Assets** on the
+   [Releases page](https://github.com/MaxxxFoka/Birnest/releases)). Safari unzips it for
    you; otherwise double-click the zip. You get `Birnest.app`.
 2. Drag `Birnest.app` into your **Applications** folder (or any folder you own).
 3. Double-click `Birnest.app`. macOS says it **"cannot verify"** the app or that Apple
@@ -95,9 +100,11 @@ To update, replace `Birnest.app` with the new one; you may need to approve it ag
 If you played the Windows build through CrossOver or Parallels before, use the Mac build
 instead: it looks better and runs faster.
 
-**Updating:** download the new zip and extract it over the old folder (or into a new one).
-Your settings, key bindings and replays are kept, because they live in your user profile,
-not in the game folder.
+**Updating:** from beta 6 on, the game checks for a new version when you open it. The main
+menu offers the update, downloads it, checks it and installs it for you. Beta 5 and older
+can't do that yet, so install beta 6 by hand once: download the new zip and extract it over
+the old folder (on a Mac, replace `Birnest.app`). Your settings, key bindings and replays
+are kept, because they live in your user profile, not in the game folder.
 
 **Uninstalling:** delete the game folder. Settings and replays live under
 `%APPDATA%\Godot\app_userdata\Birnest\`; delete that folder to remove them too.
@@ -213,8 +220,8 @@ Please don't post personal information in issues.
 
 ## Beta terms
 
-Birnest is in closed beta and is provided as is, for testing only. See
-[BETA-TERMS.md](BETA-TERMS.md) for what that means for you. This repository contains only
-what players need; the game's source code is not public.
+Birnest is in open beta and is provided as is, for testing. See
+[BETA-TERMS.md](BETA-TERMS.md) for what that means for you. This repository holds the
+player downloads, changelog and bug reports; the game's source code is not public.
 
 <p align="center"><sub>Birnest is an original game. All names, heroes, art and lore are our own.</sub></p>

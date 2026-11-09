@@ -1,4 +1,4 @@
-# Birnest closed beta terms
+# Birnest beta terms
 
 By downloading or playing the Birnest beta you agree to these terms.
 
