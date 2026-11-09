@@ -12,7 +12,8 @@
   <a href="#install">Install</a> ·
   <a href="#how-to-play">How to play</a> ·
   <a href="#report-a-bug">Report a bug</a> ·
-  <a href="CHANGELOG.md">Changelog</a>
+  <a href="CHANGELOG.md">Changelog</a> ·
+  <a href="https://birnest.com">birnest.com</a>
 </p>
 
 <p align="center"><img src="docs/images/match.jpg" alt="A 3v3 match on the Canopy map, seen from behind a hero at the Nest" width="900"></p>
@@ -24,6 +25,8 @@
 > **Latest: v0.1.0-beta.5** · [Windows](https://github.com/MaxxxFoka/Birnest/releases/download/v0.1.0-beta.5/Birnest-v0.1.0-beta.5-windows.zip) · [Mac](https://github.com/MaxxxFoka/Birnest/releases/download/v0.1.0-beta.5/Birnest-v0.1.0-beta.5-macos.zip) · [What's new](CHANGELOG.md)
 
 ## What is Birnest?
+
+More about the game, its birds and its world at **[birnest.com](https://birnest.com)**.
 
 Two Clutches, **Sunfeather** and **Duskwing**, defend their Nests on the world of Welkin.
 Each team picks birds, pushes waves of woven Fledglings down the Flyways, brings down the
