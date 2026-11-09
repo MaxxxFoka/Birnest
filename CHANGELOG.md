@@ -3,6 +3,41 @@
 Every beta build is listed here, newest first. Downloads are on the
 [Releases page](https://github.com/MaxxxFoka/Birnest/releases).
 
+## v0.1.0-beta.6 (2026-11-09)
+
+Windows and Mac. **Install this one by hand once:** from now on the game updates itself.
+
+**Updates in the game**
+- When a new beta is out, the main menu offers it: **Update now** downloads it, checks it
+  and installs it, then restarts the game. **What's new** shows the notes; **Later** hides it.
+- If the server no longer accepts your version, the menu tells you to update.
+- On a Mac, keep `Birnest.app` in Applications (not Downloads) so it can update itself.
+
+**Play with friends**
+- **The Flock:** a friends page with recent players, plus mute, block and report.
+- **Hero colours:** earn colour variants by playing, pick one on the pick screen, and wear
+  it in matches.
+- **Hero voices:** every bird has a call for each ability, with a Hero voices volume slider.
+- **Language:** English and German, with a language picker in Settings.
+
+**Combat and camera**
+- Melee hits land with more weight: a short hit-stop and a camera jolt on your own hits and
+  kills.
+- The camera moves in or rises past cover instead of hiding your bird; buildings fade near
+  the lens.
+- Dive abilities show as stooping dives on every screen.
+- Cleaner world labels: merged markers, fading nameplates, easier-to-read health bars.
+
+**Look**
+- Smoother flight: tip-anchored contrails, a swept glide and a tucked dive.
+- Night keeps every unit's colour and team colour readable; Shellfall's dark areas are lighter.
+- The Stillstorm's coat reads dark slate on every renderer; its den is cleared of clutter.
+- Velvetclaw refined again; leaf litter no longer shows hard-edged shapes.
+
+**Fixes**
+- The intro flyover only plays at the start of a real match.
+- The Watch list no longer shows an empty replay.
+
 ## v0.1.0-beta.5 (2026-11-09)
 
 Windows and Mac. Older betas can't join online matches with the updated server, so update
