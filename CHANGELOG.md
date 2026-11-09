@@ -17,7 +17,7 @@ A balance and language update. If you have beta 6, the game offers this update o
 **Languages**
 - Six more languages: Russian, Spanish (Latin America), Portuguese (Brazil), French, Polish
   and Turkish. These are machine-drafted for now; tell us when something reads wrong.
-- German is now complete, including the Flock, hero voices and the shop.
+- German is now complete, including the Flock page and the shop.
 
 **Look and fixes**
 - Velvetclaw refined again: new back and wing colours and a feathered head.
