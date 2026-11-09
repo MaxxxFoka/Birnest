@@ -3,10 +3,41 @@
 Every beta build is listed here, newest first. Downloads are on the
 [Releases page](https://github.com/MaxxxFoka/Birnest/releases).
 
-## Unreleased (next beta)
+## v0.1.0-beta.5 (2026-11-09)
 
+Windows and Mac. Older betas can't join online matches with the updated server, so update
+before you play.
+
+**Combat feel**
+- Hits read clearly: a tinted flash, stacked damage numbers, flying feathers and a clear
+  kill moment. Melee hits now shove the target back.
+- A death card shows what killed you, with a short kill cam.
+- The camera keeps your bird larger in fights, and your own effects fade near the lens.
+- Each ability has one clear look for its cast.
+
+**Flight**
+- Diving pushes you faster, with pitched wind, speed blur and wingtip contrails.
+- Leaves and bark in front of your bird turn see-through so you never lose sight of it.
+
+**Map and objectives**
+- Team-coloured beams and distance markers point to objectives.
+- A flyover introduces the map at the start of a match.
+- The Stillstorm shows its pounce landing ring and leap path.
+- Brighter day and night lighting, a new painted ground with grass and rushes.
+
+**Heroes and menus**
+- See your real 3D bird on a lit stage in the pick screen, menu and lobby.
+- Thornback and Velvetclaw rebuilt with new models.
+- New "First flight" tutorial and a training range with practice tools.
+
+**Bots and balance**
+- Bots push the Flyway you're not on, and hold their pushes while they outnumber you.
+- Balance recheck after the gentler Fledglings.
+
+**Fixes**
 - Joining an online match always goes through the loading screen, and a failed join stays
   there with a plain reason instead of a server address.
+- The Compatibility (OpenGL) renderer lights tree canopies correctly again.
 
 ## v0.1.0-beta.4 (2026-11-08)
 
