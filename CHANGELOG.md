@@ -3,6 +3,36 @@
 Every beta build is listed here, newest first. Downloads are on the
 [Releases page](https://github.com/MaxxxFoka/Birnest/releases).
 
+## v0.1.0-beta.8 (2026-11-09)
+
+Team chat and hero colours online. **Beta 6 and 7 can't join online games any more:** the
+main menu offers this update, so click **Update now**. Practice matches still work offline.
+
+**Play with friends**
+- **Team chat:** press **Enter** in an online match to write to your team. You see lines
+  from friends and your party; turn on **Team chat from every teammate** in Settings to see
+  everyone's. Muted and blocked players never show.
+- **Hero colours online:** the colour you pick now shows for every player in the match, and
+  in replays. Every hero now has colour variants to earn, all ten of them.
+- Matchmaking tries to keep players you've blocked off your team.
+- Reports include the reported player's recent chat.
+
+**Languages**
+- Simplified Chinese, Japanese and Korean, with new fonts. These are machine-drafted for
+  now; tell us when something reads wrong.
+- The pick screen fits Russian.
+
+**Look and feel**
+- Flying feels faster: the camera pulls in and widens, wind streaks appear, and a light
+  speed blur kicks in. **Reduce motion** in Settings turns this off.
+- A painted sky with clouds, haze and sun shafts.
+- Night is easier to read: birds keep their colours and the lanes are lit.
+
+**Fixes**
+- An enemy's voice line is no longer dropped when allies talk at the same time.
+- No stray "wins!" line behind the end-of-match panel.
+- A lobby member who isn't ready shows an open ring instead of "...".
+
 ## v0.1.0-beta.7 (2026-11-09)
 
 A balance and language update. If you have beta 6, the game offers this update on the main menu.
