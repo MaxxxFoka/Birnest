@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MaxxxFoka/Birnest/releases/download/v0.1.0-beta.5/Birnest-v0.1.0-beta.5-windows.zip"><b>⬇ Windows</b></a> ·
-  <a href="https://github.com/MaxxxFoka/Birnest/releases/download/v0.1.0-beta.5/Birnest-v0.1.0-beta.5-macos.zip"><b>⬇ Mac</b></a> ·
+  <a href="https://github.com/MaxxxFoka/Birnest/releases/download/v0.1.0-beta.6/Birnest-v0.1.0-beta.6-windows.zip"><b>⬇ Windows</b></a> ·
+  <a href="https://github.com/MaxxxFoka/Birnest/releases/download/v0.1.0-beta.6/Birnest-v0.1.0-beta.6-macos.zip"><b>⬇ Mac</b></a> ·
   <a href="https://github.com/MaxxxFoka/Birnest/releases">All releases</a> ·
   <a href="#install">Install</a> ·
   <a href="#how-to-play">How to play</a> ·
@@ -22,7 +22,7 @@
 > and changes every week: expect bugs, placeholder art and balance swings. Your reports shape
 > what we fix next.
 >
-> **Latest: v0.1.0-beta.5** · [Windows](https://github.com/MaxxxFoka/Birnest/releases/download/v0.1.0-beta.5/Birnest-v0.1.0-beta.5-windows.zip) · [Mac](https://github.com/MaxxxFoka/Birnest/releases/download/v0.1.0-beta.5/Birnest-v0.1.0-beta.5-macos.zip) · [What's new](CHANGELOG.md)
+> **Latest: v0.1.0-beta.6** · [Windows](https://github.com/MaxxxFoka/Birnest/releases/download/v0.1.0-beta.6/Birnest-v0.1.0-beta.6-windows.zip) · [Mac](https://github.com/MaxxxFoka/Birnest/releases/download/v0.1.0-beta.6/Birnest-v0.1.0-beta.6-macos.zip) · [What's new](CHANGELOG.md)
 
 ## What is Birnest?
 
@@ -61,7 +61,7 @@ but we haven't tested those yet. Linux may come later.
 
 ## Install
 
-1. Download [the Windows zip](https://github.com/MaxxxFoka/Birnest/releases/download/v0.1.0-beta.5/Birnest-v0.1.0-beta.5-windows.zip) (or pick a version from **Assets** on the
+1. Download [the Windows zip](https://github.com/MaxxxFoka/Birnest/releases/download/v0.1.0-beta.6/Birnest-v0.1.0-beta.6-windows.zip) (or pick a version from **Assets** on the
    [Releases page](https://github.com/MaxxxFoka/Birnest/releases)).
 2. Right-click the zip, choose **Extract All…**, and pick a folder you own, for example
    `C:\Games\Birnest`. Don't run the game from inside the zip.
@@ -77,7 +77,7 @@ Keep every file from the zip together: the game needs the `.pck`, the `.dll` and
 The Mac beta isn't signed with an Apple Developer ID yet, so macOS asks you to approve it
 once.
 
-1. Download [the Mac zip](https://github.com/MaxxxFoka/Birnest/releases/download/v0.1.0-beta.5/Birnest-v0.1.0-beta.5-macos.zip) (or pick a version from **Assets** on the
+1. Download [the Mac zip](https://github.com/MaxxxFoka/Birnest/releases/download/v0.1.0-beta.6/Birnest-v0.1.0-beta.6-macos.zip) (or pick a version from **Assets** on the
    [Releases page](https://github.com/MaxxxFoka/Birnest/releases)). Safari unzips it for
    you; otherwise double-click the zip. You get `Birnest.app`.
 2. Drag `Birnest.app` into your **Applications** folder (or any folder you own).
