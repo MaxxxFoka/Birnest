@@ -5,7 +5,7 @@ Every beta build is listed here, newest first. Downloads are on the
 
 ## v0.1.0-beta.7 (2026-11-09)
 
-A balance update. If you have beta 6, the game offers this update on the main menu.
+A balance and language update. If you have beta 6, the game offers this update on the main menu.
 
 **Balance**
 - Bellhorn, Dreadcasque and Huddlewarm move a little slower (they'd been given extra speed
@@ -14,8 +14,16 @@ A balance update. If you have beta 6, the game offers this update on the main me
 - Velvetclaw's basic attack hits harder: 54 → 58.
 - Firstlight and Rouser bots now buy damage items instead of support items.
 
-**Look**
+**Languages**
+- Six more languages: Russian, Spanish (Latin America), Portuguese (Brazil), French, Polish
+  and Turkish. These are machine-drafted for now; tell us when something reads wrong.
+- German is now complete, including the Flock, hero voices and the shop.
+
+**Look and fixes**
 - Velvetclaw refined again: new back and wing colours and a feathered head.
+- A brighter midday; the warm late light stays for dawn and dusk.
+- The pick screen and shop fit longer translated text.
+- Fixed an error in pings.
 
 ## v0.1.0-beta.6 (2026-11-09)
 
