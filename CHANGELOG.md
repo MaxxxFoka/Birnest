@@ -3,6 +3,44 @@
 Every beta build is listed here, newest first. Downloads are on the
 [Releases page](https://github.com/MaxxxFoka/Birnest/releases).
 
+## v0.1.0-beta.9 (2026-11-10)
+
+Accounts, ranked seasons and 3v3 Find match on the Canopy. **Beta 8 can't join online games
+any more:** the main menu offers this update, so click **Update now**.
+
+Mac: no beta 9 build yet; the Mac version returns in early December.
+
+**New**
+- **Accounts and ranks.** Your profile now has a recovery code (Account page), so you can
+  get it back on another PC. Ranked play has seasons of 8 weeks, six rank tiers and a few
+  placement games to start. Ranked is solo or duo.
+- **Find match is 3v3 on the Canopy.** The Shellfall stays playable in custom lobbies.
+- **Skill points.** You now choose which ability to rank up each time your bird Molts.
+- **Flight.** Birds in the air keep flying while they attack, and bots fight from the air too.
+
+**Changed**
+- Shorter matches: Hatchery, Great Egg and tier-2 Perch have less health.
+- Heroes hatch one after another through the Roost instead of all at once.
+- Bots answer pings, defend structures nobody pinged and give up lost pushes.
+- The attack lock follows your crosshair, and you can switch or drop it.
+- Brood guards heal with a short Mend instead of constant regeneration.
+
+**Look and feel**
+- All ten heroes reworked for a clearer read from behind, by Day and by Night.
+- New rocks, cliffs, trees, Perches, Nests and the Great Egg; a worn flyway path and new
+  lanterns on the Canopy at Night.
+- Clearer hits and kills, contrails, dash and dive effects.
+- First launch opens fullscreen, the HUD scales with your screen, and there is a new
+  Ultra graphics preset.
+- Faster loading into a match.
+
+**Fixed**
+- An out-of-date game is now told to update as soon as you press Find match or join a
+  party or lobby, instead of failing when the match starts.
+- A bird killed online could look alive for a moment on your screen.
+- Smoother online play on weaker connections (smaller game updates).
+- Dark heroes no longer look like glass when hit.
+
 ## v0.1.0-beta.8 (2026-11-09)
 
 Team chat and hero colours online. **Beta 6 and 7 can't join online games any more:** the

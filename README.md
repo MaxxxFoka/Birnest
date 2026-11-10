@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MaxxxFoka/Birnest/releases/download/v0.1.0-beta.8/Birnest-v0.1.0-beta.8-windows.zip"><b>⬇ Windows</b></a> ·
+  <a href="https://github.com/MaxxxFoka/Birnest/releases/download/v0.1.0-beta.9/Birnest-v0.1.0-beta.9-windows.zip"><b>⬇ Windows</b></a> ·
   <a href="https://github.com/MaxxxFoka/Birnest/releases/download/v0.1.0-beta.8/Birnest-v0.1.0-beta.8-macos.zip"><b>⬇ Mac</b></a> ·
   <a href="https://github.com/MaxxxFoka/Birnest/releases">All releases</a> ·
   <a href="#install">Install</a> ·
@@ -22,7 +22,7 @@
 > and changes every week: expect bugs, placeholder art and balance swings. Your reports shape
 > what we fix next.
 >
-> **Latest: v0.1.0-beta.8** · [Windows](https://github.com/MaxxxFoka/Birnest/releases/download/v0.1.0-beta.8/Birnest-v0.1.0-beta.8-windows.zip) · [Mac](https://github.com/MaxxxFoka/Birnest/releases/download/v0.1.0-beta.8/Birnest-v0.1.0-beta.8-macos.zip) · [What's new](CHANGELOG.md)
+> **Latest: v0.1.0-beta.9** (Mac: still v0.1.0-beta.8) · [Windows](https://github.com/MaxxxFoka/Birnest/releases/download/v0.1.0-beta.9/Birnest-v0.1.0-beta.9-windows.zip) · [Mac](https://github.com/MaxxxFoka/Birnest/releases/download/v0.1.0-beta.8/Birnest-v0.1.0-beta.8-macos.zip) · [What's new](CHANGELOG.md)
 
 ## What is Birnest?
 
@@ -62,7 +62,7 @@ but we haven't tested those yet. Linux may come later.
 
 ## Install
 
-1. Download [the Windows zip](https://github.com/MaxxxFoka/Birnest/releases/download/v0.1.0-beta.8/Birnest-v0.1.0-beta.8-windows.zip) (or pick a version from **Assets** on the
+1. Download [the Windows zip](https://github.com/MaxxxFoka/Birnest/releases/download/v0.1.0-beta.9/Birnest-v0.1.0-beta.9-windows.zip) (or pick a version from **Assets** on the
    [Releases page](https://github.com/MaxxxFoka/Birnest/releases)).
 2. Right-click the zip, choose **Extract All…**, and pick a folder you own, for example
    `C:\Games\Birnest`. Don't run the game from inside the zip.
