@@ -34,7 +34,8 @@ enemy Perches and breaks the Great Egg at the heart of their Nest.
 
 - **Third-person, aimed combat.** You look and aim with the mouse, like a shooter, not by
   clicking on the ground.
-- **Flight.** Every bird can take off. Lift drains in the air and refills on the ground, so
+- **Flight.** Most birds fly; the heavy ground birds hop instead. Lift
+  drains in the air and refills on the ground, so
   choosing when to fly is half the game.
 - **10 birds** in this beta, from the Larder-Keeper Thornback to the River-Spear Plungebright,
   each with four abilities.
