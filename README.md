@@ -13,7 +13,8 @@
   <a href="#how-to-play">How to play</a> ·
   <a href="#report-a-bug">Report a bug</a> ·
   <a href="CHANGELOG.md">Changelog</a> ·
-  <a href="https://birnest.com">birnest.com</a>
+  <a href="https://birnest.com">birnest.com</a> ·
+  <a href="https://birnest.com/discord"><b>Discord</b></a>
 </p>
 
 <p align="center"><img src="docs/images/match.jpg" alt="A 3v3 match on the Canopy map, seen from behind a hero at the Nest" width="900"></p>
@@ -198,6 +199,9 @@ Found something broken? Please tell us; every report gets read.
 2. Pick **Bug report** (or **Feedback** for ideas and balance opinions).
 3. Fill in what happened, what you expected, and how to make it happen again. A screenshot
    or a short video helps a lot.
+
+Rather chat? Post it in **#bug-reports** on our [Discord](https://birnest.com/discord), where you
+can also find teammates and hear about playtests first.
 
 Useful extras:
 

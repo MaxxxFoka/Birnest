@@ -3,3 +3,6 @@ contact_links:
   - name: How to install and play
     url: https://github.com/MaxxxFoka/Birnest#install
     about: Check the README first; many problems are solved in Troubleshooting.
+  - name: Birnest Discord
+    url: https://birnest.com/discord
+    about: Find teammates, ask quick questions and hear about playtests first.
