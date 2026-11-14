@@ -35,14 +35,23 @@ enemy Perches and breaks the Great Egg at the heart of their Nest.
 
 - **Third-person, aimed combat.** You look and aim with the mouse, like a shooter, not by
   clicking on the ground.
-- **Flight.** Most birds fly; the heavy ground birds hop instead. Lift
-  drains in the air and refills on the ground, so
-  choosing when to fly is half the game.
-- **10 birds** in this beta, from the Larder-Keeper Thornback to the River-Spear Plungebright,
-  each with four abilities.
-- **Seeds and Trinkets.** Last hits pay Seeds; spend them at the Magpie Market in your Nest.
-- **Play your way.** Practice against bots offline, or host a lobby and play online with
-  friends using an invite code.
+- **Flight.** Flyers and Gliders take to the air; the heavy Hoppers (Bellhorn, Dreadcasque
+  and Huddlewarm) stay on the ground and hop. Lift drains in the air and refills on the
+  ground, so choosing when to fly is half the game. On the Canopy you can also perch in the
+  treetops, hide in the leaves and ride the wind.
+- **10 birds** in this beta, five for each Clutch, from the Larder-Keeper Thornback to the
+  River-Spear Plungebright. Each has a trait and four abilities taken from how that bird
+  really lives: a shrike's larder, a kingfisher's dive, a nightingale's songs.
+- **Grow through the match.** Earn XP to Molt up to Molt 25, rank up an ability each time
+  and pick Plumes on the Plume card to shape your build.
+- **Seeds and Trinkets.** Last hits pay Seeds; spend them at the Magpie Market on 34
+  Trinkets, the same shop in every mode. You can buy from anywhere: the Carrier Swift brings
+  what you bought away from the Nest. The Homeward Whistle that flies you home has its own
+  slot.
+- **Play your way.** Learn in First flight, a guided match, or practice against bots at three
+  difficulties. Online, queue for 3v3 on the Canopy (unranked or ranked) or host a lobby and
+  play with friends using an invite code, on the Canopy (3v3) or the Shellfall (5v5), where
+  the Stillstorm sleeps.
 
 ## System requirements
 
@@ -134,29 +143,42 @@ The hash should match the one in the `.sha256` file.
 
 ## How to play
 
+This guide follows the current Windows build. The Mac is still on beta 8, which plays
+against bots only; online play on the Mac returns with the December Mac build.
+
 ### Your first match
 
-1. Launch the game and click **Practice**. Pick a bird and a map: **Canopy** (3v3, two
-   Flyways) is the best place to start.
-2. A short guide walks you through moving, flying, the shop and your first fight. Press
-   **F1** to skip it.
-3. Push with your Fledglings, bring down the enemy Perches, then break their Great Egg.
+1. Launch the game. On your first run the **Practice** menu opens with **First flight**, a
+   guided 10-minute match on the Canopy: moving, fighting, shopping and taking a Perch.
+   Press **F1** to end the tutorial.
+2. After that, **Practice → Practice match** lets you pick any bird, a map and the bots'
+   difficulty (Easy, Normal or Hard). The **Canopy** (3v3, two Flyways) is the best place to
+   start; the **Shellfall** is the full 5v5 map with three Flyways and the Stillstorm.
+   **Practice → Training range** has practice tools on **F9**: training dummies, cooldown
+   refresh and more.
+3. Push with your Fledglings, bring down the enemy Perches and Hatcheries, then break their
+   Great Egg.
 
 ### Play online
 
-The game connects to the beta server by itself: the **Lobby server** field on the main menu
-already says `https://2-31-168-73.sslip.io`.
+The game connects to the beta server by itself (the **Lobby server** field under
+**Lobby → Advanced** already says `https://2-31-168-73.sslip.io`).
 
-**Play with a friend (easiest):** both of you install the game and type your names.
+**Find match:** press **Play** on the main menu to queue for 3v3 on the Canopy, **Unranked**
+or **Ranked**. To queue together, one of you clicks **Make a party** and shares the party
+code; the other enters it under **Join party**. When a match is found, accept the ready
+check and draft your birds. Unranked fills empty seats with bots after a short wait; ranked
+waits for players. Ranked has seasons and rank tiers, and is solo or duo.
+
+**Play with a friend:** open **Lobby** on the main menu; both of you type your names.
 
 1. One of you clicks **Host a lobby** and sends the invite code (any chat app works).
 2. The other pastes the code into **Invite code** and clicks **Join**.
-3. Pick your Clutches, and the host starts the match. Empty slots are filled with bots, so
-   1v1, 2v2 or a full match all work.
+3. Pick your Clutches. The host picks the map (the Canopy for 3v3, the Shellfall for 5v5)
+   and can switch to a draft with bans, then starts the match. Empty slots are filled with
+   bots, so 1v1, 2v2 or a full match all work.
 
-**Find match:** open **Find match** to queue for a match. To queue together, one of you
-clicks **Make a party** and shares the party code; the other enters it under **Join party**.
-When a match is found, accept the ready check. Bots fill any empty seats.
+If your game closes mid-match, the main menu offers to rejoin it.
 
 **Steam invites (optional):** with Steam running, host a lobby and click **Invite Steam
 friends**. Your friend must already have Birnest open when they accept. For now you'll show
@@ -174,22 +196,28 @@ All keys can be changed in **Settings → Controls**.
 | Move | **W A S D** |
 | Look and aim | **Mouse** |
 | Attack | Hold **Left mouse** |
-| Take off / land (hop when grounded in some spots) | **Space** |
+| Cancel an aimed cast | **Right mouse** |
+| Take off / land (Hoppers hop) | **Space** |
+| Crown hop (while perched in a treetop) | **X** |
 | Abilities 1, 2, 3, ultimate | **Q**, **E**, **F**, **R** |
+| Rank up an ability | **Ctrl** + **Q**, **E**, **F** or **R** |
 | Trinkets | **1** to **6** |
+| Homeward Whistle (fly home) | **T** |
 | Magpie Market (shop, works anywhere) | **B** |
 | Send the Carrier Swift with your Stash | **C** |
-| Plume card (talents) | **P** |
+| Plume card | **P** |
 | Scoreboard | Hold **Tab** |
-| Ping | **Alt** or **Mouse 4** |
+| Ping (tap or hold) | **G** or **Mouse 4** |
+| Team chat | **Enter** |
+| Free the cursor, show ranges | **Alt** |
 | Swap camera shoulder | **V** |
-| Menu, free the mouse | **Esc** |
-| Skip the guide | **F1** |
+| Menu | **Esc** |
+| End the tutorial | **F1** |
 
 ### Watch and replay
 
-Practice matches are saved as replays when they end or when you leave. Open **Watch** on the
-main menu to play them back or to spectate a live online match.
+Every match you play is saved as a replay when it ends or when you leave. Open **Watch** on
+the main menu to play them back, or enter a lobby's invite code to spectate its live match.
 
 ## Report a bug
 
@@ -205,7 +233,7 @@ can also find teammates and hear about playtests first.
 
 Useful extras:
 
-- **Replay:** if it happened in a practice match, attach the replay. Replays are in
+- **Replay:** attach the replay of the match where it happened. Replays are in
   `%APPDATA%\Godot\app_userdata\Birnest\replays\` (paste that path into the Explorer
   address bar). Zip the `.bndreplay` file and drag it into the issue.
 - **Crash or black screen:** run the game from a Command Prompt in the game folder and copy
@@ -223,8 +251,8 @@ Please don't post personal information in issues.
 | The game closes at once or says a `.dll` is missing | Make sure you extracted the whole zip. Install the [Microsoft Visual C++ Redistributable (x64)](https://aka.ms/vs/17/release/vc_redist.x64.exe). |
 | Error about Vulkan or a black window | Update your graphics driver from NVIDIA, AMD or Intel. |
 | Low frame rate | **Settings → Graphics**: set quality to **Low** and lower the render scale. |
-| Can't connect to a lobby | Check that the Lobby server field says `https://2-31-168-73.sslip.io`, and allow the game through your firewall. |
-| Mouse is stuck in the window | Press **Esc**. |
+| Can't connect to a lobby | Check that the Lobby server field (**Lobby → Advanced**) says `https://2-31-168-73.sslip.io`, and allow the game through your firewall. |
+| Mouse is stuck in the window | Hold **Alt**, or press **Esc** for the menu. |
 
 ## Beta terms
 
