@@ -3,6 +3,46 @@
 Every beta build is listed here, newest first. Downloads are on the
 [Releases page](https://github.com/MaxxxFoka/Birnest/releases).
 
+## v0.1.0-beta.10 (2026-11-14)
+
+**You need this update to play online.** Beta 9 can no longer join matches on the server.
+If your main menu shows "Update now", press it; otherwise get the new zip from this page.
+
+Mac: no beta 10 build yet; the Mac version returns in early December.
+
+**New**
+- **Nine reworked hero kits.** Every bird's abilities now come from how that bird really
+  lives: songs, broods, larders, dives and displays. Each hero has its own ability icons.
+- **The Trinket pool is rebuilt.** 34 Trinkets, the same shop in every mode: parts you
+  combine into bigger pieces, plus consumables. The Magpie Market is new and lets you buy
+  anything, not just the recommended picks.
+- **The Homeward Whistle has its own slot,** so it no longer takes a Pouch space.
+- **The Canopy is alive.** Wind currents and ridge lift, moving Thermals, the Snag Roost to
+  hold, a Glider Troop to clear, and Skimmers in every wave. Birds can perch in the
+  treetops, hide in the leaves and hop from crown to crown.
+- **Rejoin.** If your game closes mid-match, the main menu offers to rejoin it. Parties
+  stay together after a match, so you can queue again with one press.
+- **Settings, rebuilt.** Five tabs with hints, camera, reticle, damage numbers, cast modes,
+  self-cast, colour filter, subtitles, sound cues and more.
+
+**Changed**
+- A new main menu on a night branch.
+- A new HUD: painted portraits and minimap, bigger ability bar, clearer kill feed and a
+  death card that shows what hit you.
+- Healing and other ally abilities now pick an ally, or yourself, instead of an enemy.
+- Many balance changes across all ten heroes.
+
+**Looks and feel**
+- Painted plumage for Thornback, Firstlight, Huddlewarm, Bellhorn, Evensong, Dreadcasque
+  and Nightpinion.
+- The Great Egg and Hatcheries now sit in a nest tree.
+- A softer night that keeps colours readable.
+
+**Fixed**
+- Taking off and landing online respond at once, without waiting for the server.
+- Attacks and casts against moving targets land fairly on slower connections.
+- When the servers are full, the menu says so instead of failing.
+
 ## v0.1.0-beta.9 (2026-11-10)
 
 Accounts, ranked seasons and 3v3 Find match on the Canopy. **Beta 8 can't join online games
